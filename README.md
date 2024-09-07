@@ -24,5 +24,6 @@ Here are some ideas to get you started:
     - In the field of education, Abubakar has contributed to curriculum development for STEM (Science, Technology, Engineering, and Mathematics) programs. Their passion lies in making complex concepts accessible to students through innovative teaching methods.
     - Abubakar is also intrigued by collision detection systems, exploring ways to enhance safety in various domains such as autonomous vehicles, robotics, and gaming.🌟
   
-  -  **2024 Project**:https://bsj.uobaghdad.edu.iq/index.php/BSJ/article/view/9767
-  -  **2020 Project**:https://www.ijaemr.com/link/411
+   -  **2024 Research**:https://link.springer.com/chapter/10.1007/978-981-97-2550-2_11
+   -  **2024 Research**:https://bsj.uobaghdad.edu.iq/index.php/BSJ/article/view/9767
+    -  **2020 Research**:https://www.ijaemr.com/link/411
